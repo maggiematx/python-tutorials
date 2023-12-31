@@ -32,7 +32,7 @@ arr=np.arange(0,10)
 arr
 
 # exercise 6:
-arr_reshaped=arr.reshap((2,5))
+arr_reshaped=arr.reshape((2,5))
 arr_reshaped
 
 # exercise 7:
