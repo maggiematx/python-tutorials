@@ -11,16 +11,16 @@ max_num = max(x,y,z)
 print(f"The maximum number is: {max_num}")
 
 # exercise 3: check for prime number
-num = int(input(6))
-is_prime = True
-for i in range(2, int(num**0.5) + 1):
-    if num % i == 0:
-        is_prime = False
-        break
-if is_prime and num > 1:
-    print("Prime")
+n = 5
+if n>1:
+    for i in range(2,int(n/2)+1):
+        if(n%i)==0:
+            print(num, "is not a [prime number]")
+            break
+        else:
+            print(n, "is a prime number")
 else:
-    print("Not Prime")
+    print(n, "is not a prime number")
 
 #  exercise 4: 
 x=[1,2,3,4,5]
