@@ -1,4 +1,4 @@
-# exercise #9:  display multiplication table (from 1 to 10) 
+# exercise #9:  display gitmultiplication table (from 1 to 10) 
 
 num = 12
 
