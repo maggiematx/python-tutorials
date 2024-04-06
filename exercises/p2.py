@@ -1,5 +1,3 @@
-
-2.
 # exercise 2: find the maxmium number
 x = 6
 y = 7
