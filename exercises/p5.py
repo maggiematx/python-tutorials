@@ -1,4 +1,4 @@
-# exercise 5: 
+# exercise 5: check if a number is positive, negative or zero
 num = float(input("Enter a number: "))
 if num > 0:
    print("Positive number")
